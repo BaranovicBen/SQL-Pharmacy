@@ -21,7 +21,7 @@ Databáza modeluje procesy v lekárni:
 - **Predpis** vydaný zákazníkovi oprávneným zamestnancom (iba lekárnik). 
 
 ## Relačný model
-![Relačný model](relational_schema.png)
+![Relačný model](baranben-sw/relational_schema.png)
  
 
 Schéma zahŕňa obmedzenia:  
